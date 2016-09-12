@@ -4,7 +4,7 @@ Please ensure that development libraries for [PostgreSQL](http://techarena51.com
 
 ####Step 1:Clone the project to your application folder.
 
-    git clone git@github.com:Leo-g/Flask-Scaffold.git YourAppFolderName && cd YourAppFolderName
+    git clone git@github.com:jking6884/RESTapi.git YourAppFolderName && cd YourAppFolderName
 
 ####Step 2: Install the requirements and add your Database configuration details.
 
@@ -42,8 +42,6 @@ For a list of supported fields please see https://github.com/Leo-g/Flask-Scaffol
     python db.py db migrate
     python db.py db upgrade
 
-
-To configure your application with nginx and uwsgi configuration see the [wiki](https://github.com/Leo-G/Flask-Scaffold/wiki/Install-and-Configure-Nginx-and-Uwsgi-on-Ubuntu-to-Serve-Flask-and-Angularjs-Applications)
 ###Tests
 
 ####For unit testing with python Unit tests
