@@ -1,7 +1,5 @@
 ###Installation
 
-Please ensure that development libraries for [PostgreSQL](http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/) are installed.
-
 ####Step 1:Clone the project to your application folder.
 
     git clone git@github.com:jking6884/RESTapi.git YourAppFolderName && cd YourAppFolderName
