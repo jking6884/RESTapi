@@ -6,7 +6,7 @@
 
 ####Step 2: Install the requirements and add your Database configuration details.
 
-    pip install -r requirements.txt
+    docker-compose build
 
     vim config.py
     #Fill in your database username, password, name, host etc
